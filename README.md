@@ -1,5 +1,4 @@
-#@ CODEWAY
-<p>Thrilled to share my recent accomplishments at Codeway!</p>
+## CODEWAY
 
 <p>1. A personal Portfolio using CSS and HTML.<br>Crafted a polished portfolio website using HTML and CSS, showcasing my skills and projects.</p>
 
